@@ -1,0 +1,9 @@
+*.spec
+*.json
+*.pyc
+*.toc
+*.zip
+*.ico
+*.html
+*.pyz
+*.exe

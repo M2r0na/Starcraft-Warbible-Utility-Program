@@ -1,0 +1,6 @@
+PyQt6
+requests
+beautifulsoup4
+pandas
+easyocr
+https://github.com/tesseract-ocr/tesseract/releases/tag/5.5.3

@@ -17,5 +17,6 @@ This is a calculator designed for use during hunting and boss runs. It should pr
 After the player aligns the on-screen frame with the photo and the system recognizes the image, the recognized data and calibration values ​​are generated; the system must then automatically log in using this information. 
 
 -This feature requires Tesseract.-
+Link : https://github.com/tesseract-ocr/tesseract/releases/tag/5.5.3
 
 ### Only have Language Korean

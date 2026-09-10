@@ -13,7 +13,7 @@ It outputs a calculated value based on information regarding all monster stats a
 It helps calculate the "Boss 13 Run" system in the game.
 ### 4. Monster / Boss Calculator
 This is a calculator designed for use during hunting and boss runs. It should prove to be surprisingly effective—consider this the real deal.
-### 5. Auto Road
+### 5. Auto Load
 After the player aligns the on-screen frame with the photo and the system recognizes the image, the recognized data and calibration values ​​are generated; the system must then automatically log in using this information. 
 
 -This feature requires Tesseract.-
